@@ -29,7 +29,7 @@ server accepts handled requests
 Reading: 0 Writing: 131 Waiting: 88 
 ```
 
-Note:
+Note:<br>
 a. 93 = number of all open connections<br>
 b. 12827 = accepted connections<br>
 c. 12828 = handled connections<br>
